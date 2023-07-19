@@ -2,11 +2,7 @@
 
 This is the first file in Repo
 
-## Ipsum Below
+# Website Contents
 
-This is the second file
-
-### This is third para
-
-This is the third line to be commited
+1.index.html
 
